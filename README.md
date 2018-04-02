@@ -4,3 +4,4 @@ In this repository, I will maintain a separate notebook for each GAN experiments
 
 1. [Vanilla GAN](https://github.com/abhishm/gan/blob/master/Vanilla%20GAN.ipynb)   
 2. [Conditional Vanilla GAN](https://github.com/abhishm/gan/blob/master/Conditional_Vanilla_GAN.ipynb)
+3. [Least Square GAN](https://github.com/abhishm/gan/blob/master/Least%20Square%20GAN.ipynb)
