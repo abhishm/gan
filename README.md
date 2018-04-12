@@ -7,4 +7,5 @@ In this repository, I will maintain a separate notebook for each GAN experiments
 3. [Least Square GAN](https://github.com/abhishm/gan/blob/master/Least%20Square%20GAN.ipynb)
 4. [Conditional LSGAN](https://github.com/abhishm/gan/blob/master/Conditional%20LSGAN.ipynb)
 5. [Deep Convolutional GAN (DCGAN)](https://github.com/abhishm/gan/blob/master/Deep%20Convolutional%20GAN%20(DCGAN).ipynb)
-5. [Least-Square DCGAN](https://github.com/abhishm/gan/blob/master/Least%20Square%20DCGAN.ipynb)
+6. [Least-Square DCGAN](https://github.com/abhishm/gan/blob/master/Least%20Square%20DCGAN.ipynb)
+6. [Conditional DCGAN](https://github.com/abhishm/gan/blob/master/Conditional%20DCGAN.ipynb)
